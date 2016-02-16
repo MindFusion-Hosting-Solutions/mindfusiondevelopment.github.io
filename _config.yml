@@ -1,41 +1,19 @@
-# name of the software
-name: MindFusion Development
-# licence of the software
-license: Apache 2.0
-licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.html
-
-# list of additional links on the right of the top menu
-headerLinks:
-#  - title: GitHub
-#    url: https://github.com/mistic100/jekyll-bootstrap-doc
-
-# list if additional links on the footer
-footerLinks:
-  - title:
-    url:
-
-# google analytics
-analytics:
-  account:
-  domain:
-
-# github
-github:
-  user: jaygreentree
-
-collections:
-  plugins:
-    output: true
-    defaults:
-      image: false
-
-jekyll-mentions:
-  base_url: https://twitter.com
-
-exclude: ['README.md', 'LICENSE', 'bower.json', 'Gemfile.lock', 'Gemfile']
-
-gems:
-  - jekyll-mentions
-  - jemoji
-  - jekyll-redirect-from
-  - jekyll-sitemap
+# Site settings
+title: MindFusion Developer Blog
+header-img: img/home-bg.jpg
+email: dev@mindfusionhosting.com
+copyright_name: MindFusion Development
+description: "Latest updates on development projects"
+baseurl: "/"
+url: "http://dev.mindfusionhosting.com"
+twitter_username: TheJayDiggity
+github_username:  jaygreentree
+facebook_username:  MindFusionHosting
+email_username:  dev@mindfusionhosting.com
+# Build settings
+markdown: kramdown
+highlighter: rouge
+# permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+gems: [jekyll-paginate, jekyll-feed]
