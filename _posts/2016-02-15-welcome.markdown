@@ -1,0 +1,43 @@
+---
+layout:     post
+title:      "Welcome"
+subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
+date:       2016-02-15 16:00:00
+author:     "Jay Greentree President/CEO"
+header-img: "img/post-bg-01.jpg"
+---
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<p></p>
+
+<h2 class="section-heading">The Final Frontier</h2>
+
+<p></p>
+
+<p></p>
+
+<blockquote></blockquote>
+
+<p></p>
+
+<h2 class="section-heading">Reaching for the Stars</h2>
+
+<p></p>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
+</a>
+<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+
+<p></p>
+
+<p></p>
+
+<p></p>
