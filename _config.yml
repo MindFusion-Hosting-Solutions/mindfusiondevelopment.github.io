@@ -5,7 +5,7 @@ email: dev@mindfusionhosting.com
 copyright_name: MindFusion Development
 description: "Latest updates on development projects"
 baseurl: "/"
-url: "http://dev.mindfusionhosting.com"
+url: http://dev.mindfusionhosting.com
 twitter_username: TheJayDiggity
 github_username:  jaygreentree
 facebook_username:  MindFusionHosting
