@@ -1,8 +1,8 @@
 {
-    "name": "clean-blog",
-    "title": "Clean Blog",
+    "name": "MindFusion Development Blog",
+    "title": "MindFusion Development Blog",
     "version": "1.0.0",
-    "homepage": "http://startbootstrap.com",
+    "homepage": "http://mindfusion.com",
     "author": "Start Bootstrap",
     "license": {
         "type": "Apache 2.0",
@@ -17,6 +17,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll.git"
+        "url": "https://github.com/MindFusion-Hosting-Solutions/MindFusion-Hosting-Solutions.github.io.git"
     }
 }
