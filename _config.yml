@@ -6,14 +6,14 @@ copyright_name: MindFusion Development
 description: "Latest updates on development projects"
 baseurl: ""
 url: "http://dev.mindfusionhosting.com"
-twitter_username: TheJayDiggity
+twitter_username: JayTheITGuy1983
 github_username:  jaygreentree
 facebook_username:  MindFusionHosting
 email_username:  dev@mindfusionhosting.com
 # Build settings
 markdown: kramdown
 highlighter: rouge
-# permalink: pretty
+permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 gems: [jekyll-paginate, jekyll-feed]
